@@ -1,8 +1,4 @@
-Project 05 - Final Quiz Tool README
-
-Submitted Report on Brightspace - Will Clippard
-Submitted Vocareum workspace - Yuchen Gu
-Submitted Presentation - David Shin
+Project Final Quiz Tool README
 
 Description
 
